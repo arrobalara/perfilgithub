@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
 
+<h1 align="center"> Olá, mundo! 🖖🏽</h1>
+
 <a href="https://www.linkedin.com/in/mariadelaranunes/" target="_blank">
     <h1 align="center">
         Maria de Lara Nunes
