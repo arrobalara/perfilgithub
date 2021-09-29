@@ -91,7 +91,7 @@ Meu nome é Maria de Lara, mas todo mundo me conhece só por Lara ou por De Lara
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrobalara&layout=compact&langs_count=16&theme=tokyonight"/> </a>
 </div>
 
-    </div>
+    
     
      
     
